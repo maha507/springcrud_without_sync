@@ -1,0 +1,1 @@
+Springcrud without Syncfusion table
